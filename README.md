@@ -38,7 +38,7 @@ java SimpleSample
 
 - You should see the `Hello World` text in your console: 
 
-![Sample console output](module-1-simple-sample-output.png "SimpleSample Output")
+![Sample console output](https://curriculum-content.s3.amazonaws.com/java-mod-1/your-first-java-program/module-1-simple-sample-output.png)
 
 **Explanation**
 
