@@ -71,7 +71,7 @@ an object in a later unit)
 Put it all together, and you have the following line from our sample class above: 
 
 ```java
-    System.out.println("Hello World"); 
+System.out.println("Hello World"); 
 ```
 
 Note that there are a few more lines of code in our sample class that surround
