@@ -40,7 +40,7 @@ java SimpleSample
 
 ![Sample console output](module-1-simple-sample-output.png "SimpleSample Output")
 
-### Explanation
+**Explanation**
 
 - An instruction is a command for the computer. In Java, most instructions end with a `;`. There are notable 
 exceptions, and we will cover them all in detail in upcoming units. 
